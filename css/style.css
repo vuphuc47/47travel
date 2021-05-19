@@ -1,0 +1,62 @@
+@import url(https://fonts.google.com/specimen/Indie+Flower#standard-styles);
+html,body{
+    font-family: Indie Flower;
+    max-width: 1366px;
+    margin: auto;
+    font-size: 15px;
+}
+*{
+    box-sizing: border-box;
+}
+#slider{
+    margin-bottom: 2%;
+    padding: 0%;
+}
+img{
+    width: 100%;
+}
+hr{
+    border: 1px solid black;
+}
+/* -------------- menu ----------- */
+.nav-item{
+    margin: 0rem 1rem;
+}
+/* -------------- done menu ----------- */
+/* -------------- content ----------- */
+.content{
+    margin: 0%;
+    padding: 0%;
+}
+.content-left{
+    margin: 0%;
+    padding: 0%;
+}
+.content-right{
+    margin: 0%;
+    padding: 0% 0% 0% 1rem;
+}
+.content-right h3{
+    text-align: center;
+} 
+.content-son{
+    margin-bottom: 1rem;
+}
+.content-text{
+    margin-bottom: 1rem;
+}
+/* --------------done content ----------- */
+/* -------------- footer ----------- */
+
+.footer-contact{
+    margin: 0%;
+    padding: 0%;
+}
+.footer-contact h6,p{
+    margin: 0%;
+    padding: 0%;
+}
+.warring p{
+    color: red;
+}
+/* -------------- done footer ----------- */

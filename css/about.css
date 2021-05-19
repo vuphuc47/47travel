@@ -1,0 +1,37 @@
+@import url(https://fonts.google.com/specimen/Indie+Flower#standard-styles);
+html,body{
+    font-family: Indie Flower;
+    max-width: 1366px;
+    margin: auto;
+    font-size: 20px;
+}
+hr{
+    border: 1px solid black;
+}
+.about h1{
+    text-align: center;
+}
+.container{
+    margin: auto;
+}
+.container p{
+    margin: auto;
+}
+.content-right{
+    margin: 0%;
+    padding: 0% 0% 0% 1rem;
+}
+
+/* -------------- footer ----------- */
+.footer-contact{
+    margin: 0%;
+    padding: 0%;
+}
+.footer-contact h6,p{
+    margin: 0%;
+    padding: 0%;
+}
+.warring p{
+    color: red;
+}
+/* -------------- done footer ----------- */

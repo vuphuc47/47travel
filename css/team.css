@@ -1,0 +1,10 @@
+@import url(https://fonts.google.com/specimen/Indie+Flower#standard-styles);
+html,body{
+    font-family: Indie Flower;
+    max-width: 1366px;
+    margin: auto;
+    font-size: 20px;
+}
+.container h1{
+    text-align: center;
+}

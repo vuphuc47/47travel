@@ -1,0 +1,17 @@
+@import url(https://fonts.google.com/specimen/Indie+Flower#standard-styles);
+html,body{
+    font-family: Indie Flower;
+    max-width: 1366px;
+    margin: auto;
+    font-size: 20px;
+}
+hr{
+    border: 1px solid black;
+}
+h1{
+    color: red;
+}
+.content-right{
+    margin: 0%;
+    padding: 0% 0% 0% 1rem;
+}
